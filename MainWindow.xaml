@@ -10,9 +10,9 @@
         <TextBlock HorizontalAlignment="Left" Height="16" Margin="138,46,0,0" TextWrapping="Wrap" Text="Text" VerticalAlignment="Top" Width="40"/>
         <TextBlock HorizontalAlignment="Left" Height="17" Margin="138,82,0,0" TextWrapping="Wrap" Text="Ample" VerticalAlignment="Top" Width="40"/>
         <TextBlock HorizontalAlignment="Left" Height="20" Margin="136,122,0,0" TextWrapping="Wrap" Text="Alt" VerticalAlignment="Top" Width="42"/>
-        <TextBox x:Name="TextBoxText" HorizontalAlignment="Left" Height="16" Margin="235,46,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="150"/>
-        <TextBox x:Name="TextBoxAmple" HorizontalAlignment="Left" Height="16" Margin="235,85,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="150"/>
-        <TextBox x:Name="TextBoxAlt" HorizontalAlignment="Left" Height="16" Margin="235,122,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="150"/>
+        <TextBox x:Name="TextBoxText" HorizontalAlignment="Left" Height="20" Margin="235,46,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="150"/>
+        <TextBox x:Name="TextBoxAmple" HorizontalAlignment="Left" Height="20" Margin="235,85,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="150"/>
+        <TextBox x:Name="TextBoxAlt" HorizontalAlignment="Left" Height="20" Margin="235,122,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="150"/>
         <TextBlock HorizontalAlignment="Left" Height="20" Margin="136,165,0,0" TextWrapping="Wrap" Text="Color" VerticalAlignment="Top" Width="42"/>
         <Label x:Name="Label1" HorizontalAlignment="Left" Height="120" Margin="138,206,0,0" VerticalAlignment="Top" Width="300" BorderBrush="Black" BorderThickness="1">
             <TextBox x:Name="TextBoxChanging" Height="50" TextWrapping="Wrap" Text="Text per defecte" Width="100"/>
